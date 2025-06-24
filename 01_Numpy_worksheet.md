@@ -51,7 +51,7 @@ $sub\_zero=y[y<0]$
 12.	Can you modify the code in part 11 to find all the values that are below 10 but above -10?   
 How many values in the array y lie between -10 and 10?
 
-## Creating Arrays: 
+## Plot results using Matplotlib: 
 
 13. Import the matplotlib package using the following command: 
 ```python
